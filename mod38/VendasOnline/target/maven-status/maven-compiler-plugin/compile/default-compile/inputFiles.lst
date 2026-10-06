@@ -1,0 +1,16 @@
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\services\generic\IGenericService.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\dao\IClienteDAO.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\service\ClienteService.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\dao\generic\GenericDAO.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\exceptions\TableException.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\exceptions\TipoChaveNaoEncontradaException.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\controller\ClienteController.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\exceptions\TipoElementoNaoConhecidoException.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\service\IClienteService.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\dao\generic\IGenericDAO.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\dao\ClienteDAO.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\exceptions\DAOException.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\services\generic\GenericService.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\exceptions\MaisDeUmRegistroException.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\domain\Persistente.java
+C:\Users\Matheus\Desktop\MATHEUS\00_programacao\EBAC\ESPECIALISTA_BACK-END\Exercicio\tarefas-ebac-Matheus-Pereira\mod38\VendasOnline\src\main\java\br\com\mpereira\domain\Cliente.java

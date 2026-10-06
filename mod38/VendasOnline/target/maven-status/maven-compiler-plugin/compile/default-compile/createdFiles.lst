@@ -1,0 +1,16 @@
+br\com\mpereira\domain\Cliente.class
+br\com\mpereira\dao\generic\GenericDAO.class
+br\com\mpereira\service\IClienteService.class
+br\com\mpereira\controller\ClienteController.class
+br\com\mpereira\dao\IClienteDAO.class
+br\com\mpereira\exceptions\DAOException.class
+br\com\mpereira\service\ClienteService.class
+br\com\mpereira\dao\generic\IGenericDAO.class
+br\com\mpereira\exceptions\TableException.class
+br\com\mpereira\services\generic\GenericService.class
+br\com\mpereira\exceptions\TipoChaveNaoEncontradaException.class
+br\com\mpereira\domain\Persistente.class
+br\com\mpereira\services\generic\IGenericService.class
+br\com\mpereira\dao\ClienteDAO.class
+br\com\mpereira\exceptions\MaisDeUmRegistroException.class
+br\com\mpereira\exceptions\TipoElementoNaoConhecidoException.class
